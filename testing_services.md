@@ -1,4 +1,4 @@
-# C# test automation 
+# Testing services platforms for the QA team
 
 A list of testing services for test case management.
 
