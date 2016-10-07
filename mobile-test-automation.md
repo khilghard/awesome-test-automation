@@ -29,6 +29,7 @@ Also:
 * [Experitest On Site Cloud](https://experitest.com/cloud-testing-for-mobile-applications/) - Onsite device lab (in your offices, inside your VPN) that can be remotely accessed by different testing teams
 * [MobileBoxLab](http://mobileboxlab.com/) - In house mobile automation and manual testing solution for your business
 * [MobileLabs Inc.](https://mobilelabsinc.com/solutions/private-mobile-device-cloud/) - Securely Manage Access to Shared Devices with an On-premises Mobile Device Testing Lab
+* [Applitools](https://applitools.com/) - Applitools Eyes brings revolutionary benefits for testing the look and feel and the functionality of mobile applications.
 
 ## Android
 * [Robotium](https://code.google.com/p/robotium/) - An Android test automation framework that fully supports native and hybrid applications. Robotium makes it easy to write powerful and robust automatic black-box UI tests for Android applications. With the support of Robotium, test case developers can write function, system and user acceptance test scenarios, spanning multiple Android activities.
