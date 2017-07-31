@@ -83,6 +83,7 @@ Also:
     * [Watir-webdriver](http://watirwebdriver.com/) - The most elegant way to use WebDriver with ruby.
     * [Poltergeist](https://github.com/teampoltergeist/poltergeist) - Poltergeist is a driver for Capybara. It allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
     * [PhantomJS](http://phantomjs.org/) - is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG.
+    * [unobtainium](https://github.com/jfinkhaeuser/unobtainium) - configuration driven wrapper for Selenium WebDriver and [appium](http://appium.io/), with PhantomJS support.
 - frameworks
     * [Capybara](http://jnicklas.github.io/capybara) - Acceptance test framework for web applications.
     * [Konacha](https://github.com/jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
@@ -126,7 +127,7 @@ Also:
 
 ## Continuous Integration
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Knapsack](https://github.com/ArturT/knapsack) - Optimal test suite parallelisation across CI nodes for RSpec, Cucumber, Minitest, Spinach and Turnip.
 
 ## Reporting
 
@@ -144,7 +145,7 @@ Also:
 
 * [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup Test::Unit + RSpec + Cucumber by running parallel on multiple CPUs (or cores). ParallelTests splits tests into even groups(by number of tests or runtime) and runs each group in a single process with its own database.
 * [headless](https://github.com/leonid-shevtsov/headless) - Is the Ruby interface for Xvfb. It allows you to create a headless display straight from Ruby code, hiding some low-level action. It can also capture images and video from the virtual framebuffer.  
-* [watir-jquery](https://github.com/eugene-tkachenko/watir-jquery) - Watir-jquery gem allows you to use the jQuery syntax to find page elements and returns Watir-object type (e.x. "#<Watir::Div:0x..").
+* [watir-jquery](https://github.com/eugene-tkachenko/watir-jquery) - Watir-jquery gem allows you to use the jQuery syntax to find page elements and returns Watir-object type.
 
 
 # Resources
@@ -157,15 +158,21 @@ Where to discover new libraries, information, tools, etc.
 
 # Other Awesome Test Automation Lists
 
-* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md)
-* [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md)
-* [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md)
-* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md)
-* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md)
-* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md)
-* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md)
+* [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) 
+* [java test automation](https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md) 
+* [ruby test automation](https://github.com/atinfo/awesome-test-automation/blob/master/ruby-test-automation.md) 
+* [c# test automation](https://github.com/atinfo/awesome-test-automation/blob/master/c%23-test-automation.md) 
+* [php test automation](https://github.com/atinfo/awesome-test-automation/blob/master/php-test-automation.md) 
+* [javascript test automation](https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md) 
+* [kotlin test automation](https://github.com/atinfo/awesome-test-automation/blob/master/kotlin-test-automation.md) 
+* [test automation and software testing as services](https://github.com/atinfo/awesome-test-automation/blob/master/automation-and-testing-as-service.md) 
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 * [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
+
+Also we are supporting and looking for contribution for project:
+
+* [practical test automation by examples](https://github.com/atinfo/at.info-knowledge-base)
+
 
 # [Contributing](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
 Your contributions are always welcome!
