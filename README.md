@@ -15,6 +15,7 @@ A curated list of awesome test automation frameworks, tools, libraries, and soft
 * [mobile, tablet and tv test automation](https://github.com/atinfo/awesome-test-automation/blob/master/mobile-test-automation.md)
 * [general purpose test automation tools](https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md)
 * [testing services platforms](https://github.com/khilghard/awesome-test-automation/blob/master/testing_services.md)
+* [Mobile App Automated Exploratory Crawler](https://github.com/isonic1/Appium-Native-Crawler)
 
 Also we are supporting and looking for contribution for project:
 
